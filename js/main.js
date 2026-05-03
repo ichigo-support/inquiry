@@ -3,8 +3,6 @@
 const left = document.querySelector('nav');
 left.innerHTML = '<nav>'+
                   '<ul>'+
-                  '<li><a href="phrase_private.html">ひとこと個別</a></li>'+
-                  '<li><a href="phrase.html">ひとこと全体</a></li>'+
                   '<li><a href="interview_before.html">面接まで</a></li>'+
                   '<li><a href="interview.html">面接 (前日＋当日)</a></li>'+
                   '<li><a href="go_to_the_office.html">出勤確認</a></li>'+
@@ -12,9 +10,6 @@ left.innerHTML = '<nav>'+
                   '<li><a href="line.html">ラインノート</a></li>'+
                   '<li><a href="campaign.html">キャンペーン</a></li>'+
                   '<li><a href="cash.html">月次会計報告</a></li>'+
-                  '<li><a href="favorite.html">お気に入り</a></li>'+
-                  '<li><a href="start.html">配信スタート</a></li>'+
-                  '<li><a href="profile_start.html">プロフ　パーツ</a></li>'+
                   '</ul>'+
                   '</nav>';
 
